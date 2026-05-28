@@ -1,0 +1,67 @@
+Food_items,Calories,Proteins,Fats,Ingredients,Category
+
+Oats,180,8,5,"oats,milk",Veg
+Salad,120,4,2,"vegetables",Veg
+Fruit Bowl,150,3,1,"apple,banana,orange",Veg
+Vegetable Soup,130,5,3,"vegetables",Veg
+Boiled Corn,160,5,2,"corn",Veg
+Brown Rice and Dal,190,10,3,"rice,lentils",Veg
+Sprouts Salad,170,11,2,"sprouts,vegetables",Veg
+Vegetable Sandwich,200,8,4,"bread,vegetables",Veg
+Greek Yogurt Bowl,180,12,4,"yogurt,fruits",Veg
+Tofu Salad,190,15,5,"tofu,vegetables",Veg
+
+Chicken Salad,280,30,8,"chicken,vegetables",Non Veg
+Boiled Eggs,160,13,11,"egg",Non Veg
+Fish Curry,220,26,8,"fish,spices",Non Veg
+Grilled Fish,180,28,5,"fish",Non Veg
+Egg Omelette,200,16,13,"egg",Non Veg
+Chicken Soup,190,25,5,"chicken",Non Veg
+Turkey Salad,230,27,6,"turkey,vegetables",Non Veg
+Tuna Salad,210,29,5,"fish,vegetables",Non Veg
+Shrimp Salad,240,28,7,"shrimp",Non Veg
+Egg White Sandwich,220,20,4,"egg,bread",Non Veg
+
+Paneer Rice Bowl,450,26,16,"paneer,rice",Veg
+Protein Shake,420,32,6,"milk,protein powder",Veg
+Tofu Rice Bowl,440,24,11,"tofu,rice",Veg
+Peanut Butter Sandwich,430,20,18,"bread,peanut,butter",Veg
+Almond Oatmeal,410,18,12,"oats,almond,milk",Veg
+Paneer Curry,460,24,18,"paneer,tomato",Veg
+Cheese Pasta,480,21,20,"pasta,cheese",Veg
+Chickpea Bowl,430,22,9,"chickpeas,rice",Veg
+Rajma Rice,450,20,7,"beans,rice",Veg
+Soybean Curry,470,28,10,"soybeans",Veg
+
+Rice and Chicken,500,32,14,"rice,chicken",Non Veg
+Grilled Chicken Breast,450,35,12,"chicken,spices",Non Veg
+Chicken Biryani,580,28,20,"rice,chicken",Non Veg
+Salmon Rice Bowl,520,34,18,"fish,rice",Non Veg
+Egg Fried Rice,470,22,14,"egg,rice",Non Veg
+Turkey Sandwich,430,25,9,"bread,turkey",Non Veg
+Chicken Wrap,420,27,12,"chicken,bread",Non Veg
+Beef Steak,600,40,25,"beef",Non Veg
+Fish Rice Bowl,510,30,13,"fish,rice",Non Veg
+Chicken Pasta,490,31,15,"pasta,chicken",Non Veg
+
+Chapati with Dal,320,11,4,"wheat,lentils",Veg
+Vegetable Khichdi,340,10,5,"rice,lentils",Veg
+Idli Sambar,310,12,4,"rice,lentils",Veg
+Dosa,350,9,8,"rice",Veg
+Veg Fried Rice,360,10,9,"rice,vegetables",Veg
+Paneer Sandwich,370,18,10,"paneer,bread",Veg
+Pasta Alfredo,390,15,12,"pasta,cream",Veg
+Mixed Nuts Snack,300,10,18,"almond,cashew,peanut",Veg
+Banana Smoothie,330,10,5,"banana,milk",Veg
+Rice Bowl,350,8,4,"rice",Veg
+
+Chicken Curry Rice,380,24,10,"rice,chicken",Non Veg
+Fish Rice,360,23,8,"fish,rice",Non Veg
+Egg Curry Rice,340,18,9,"egg,rice",Non Veg
+Chicken Sandwich,330,20,7,"bread,chicken",Non Veg
+Turkey Rice Bowl,370,24,8,"rice,turkey",Non Veg
+Shrimp Rice,390,26,9,"shrimp,rice",Non Veg
+Chicken Pasta Bowl,400,25,10,"pasta,chicken",Non Veg
+Grilled Chicken Wrap,350,24,8,"chicken,bread",Non Veg
+Tuna Rice Bowl,360,23,7,"fish,rice",Non Veg
+Chicken Noodles,390,22,9,"noodles,chicken",Non Veg
